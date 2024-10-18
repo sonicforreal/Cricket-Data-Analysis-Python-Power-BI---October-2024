@@ -9,8 +9,9 @@ The goal of this project is to identify the best 11 players based on T20 World C
 •	The team must also be able to defend an average of 180 runs.
 
 To achieve this, players were categorized into distinct roles: Openers, Batsmen, Bowlers, and All-Rounders. Each category has unique metrics to evaluate player performance. The overall selection process involves a summation algorithm that ranks players based on their individual metrics.
-Methodology
 
+
+Methodology
 
 Data Collection
 
