@@ -59,7 +59,9 @@ Project Learnings
 •	Gained experience in web scraping using Beautiful Soup 4 and other Python libraries.
 •	Improved Python skills for data cleaning and data manipulation using Pandas.
 •	Enhanced understanding of Power BI for data visualization and dashboard creation.
+
+
 Conclusion
 This project successfully identifies the best 11 players for a T20 team based on comprehensive data analysis and visualization techniques. The methodology outlined provides a framework for future analyses in cricket and other sports domains.
-4o mini
+
 
