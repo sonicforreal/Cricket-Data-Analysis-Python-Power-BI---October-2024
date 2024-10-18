@@ -1,7 +1,7 @@
  Cricket Data Analysis (Python | Power BI) - October 2024
 
 
-Problem Statement
+Problem Statement 
 
 
 The goal of this project is to identify the best 11 players based on T20 World Cup data, with specific performance criteria:
