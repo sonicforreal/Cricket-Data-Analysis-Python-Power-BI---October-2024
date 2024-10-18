@@ -61,7 +61,8 @@ Project Learnings
 •	Enhanced understanding of Power BI for data visualization and dashboard creation.
 
 
-Conclusion
+Conclusion:
+
 This project successfully identifies the best 11 players for a T20 team based on comprehensive data analysis and visualization techniques. The methodology outlined provides a framework for future analyses in cricket and other sports domains.
 
 
